@@ -4,7 +4,7 @@ In this sub-project I will be learning primarily about expansions in bash. I wil
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+* [Ubuntu 20.04 LTS - Operating system reqd.
 
 ## :warning: Prerequisites
 
@@ -13,19 +13,6 @@ In this sub-project I will be learning primarily about expansions in bash. I wil
 * Must have repository cloned
 
 
-```
-$ sudo apt-get install git
-```
-
-## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holberton-system_engineering-devops/blob/master/LICENSE.md) file for details
-
-
-
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* Alx Software Engineering programme (providing guidance)
